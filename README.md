@@ -61,5 +61,5 @@ void main() async {
 
 ## License
 
-[MIT](https://github.com/Tarbian/ucifer_quotes/blob/main/LICENSE)
+[MIT](https://github.com/Tarbian/lucifer_quotes/blob/main/LICENSE)
 
