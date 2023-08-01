@@ -1,0 +1,14 @@
+name: lucifer_quotes
+description: A library for getting random quotes from the `Lucifer` series.
+version: 1.0.0
+# repository: https://github.com/Tarbian/lucifer_quotes
+
+environment:
+  sdk: ^3.0.5
+
+dependencies:
+  http: ^0.13.3 
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
